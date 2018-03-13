@@ -1,0 +1,17 @@
+.list{
+    width:90%;
+    margin:auto;
+    overflow: hidden;
+    .item{
+        display: block;
+        float:left;
+        width:200px;
+        border:1px solid grey;
+        margin:10px;
+        min-height: 400px;
+
+        img{
+            width:200px;
+        }
+    }
+}
